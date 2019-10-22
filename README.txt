@@ -27,7 +27,11 @@ The provided package contains the following files:
 
 2- Auxiliary functions of GEOSIMCO script (norm_surface_colony_v3.m , removepoints_v1.m)
 
-3- Folders containing *.lif files of two different biological replica. They are used as examples for testing the program (P35_4A, P35_4B)
+Due to storage limitation, original folders containing *.lif files of two different biological replica containing confocal images of colonies (used as examples for testing the program (P35_4A, P35_4B)) are not uploaded. They may be found in the next link:
+
+https://fairdomhub.org/data_files/2946?version=1
+
+Check that both file folders (P35_4A, P35_4B) are located in the same folder as the rest of the scripts for a proper working
 
 
 C) TEST THE SCRIPT
